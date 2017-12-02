@@ -32,7 +32,8 @@
         "c." 'cargo-process-repeat
         "cC" 'cargo-process-clean
         "cX" 'cargo-process-run-example
-        "cc" 'cargo-process-build
+        "cc" 'cargo-process-check
+        "cb" 'cargo-process-build
         "cd" 'cargo-process-doc
         "ce" 'cargo-process-bench
         "cf" 'cargo-process-current-test
